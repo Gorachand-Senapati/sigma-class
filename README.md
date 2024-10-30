@@ -1,2 +1,2 @@
 # sigma-class
-it's a practice module
+it's a practice module.
